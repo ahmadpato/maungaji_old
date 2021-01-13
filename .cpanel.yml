@@ -1,0 +1,7 @@
+deployment:
+ 
+ tasks:
+ 
+ - export DEPLOYPATH=/home/maungaji/public_html
+ 
+ - /usr/bin/rsync -Paz * $DEPLOYPATH --delete
