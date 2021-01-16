@@ -346,7 +346,7 @@
                 </div>
             </div>   
             <br>
-            <!-- <div class="card mb-5 mb-lg-0">
+            <div class="card mb-5 mb-lg-0">
               <div class="card-body">
                 <div style="text-align: center;display: flex;flex-wrap: wrap;justify-content: center;">
                     <br> 
@@ -371,7 +371,7 @@
                     </form>
                 </div>
               </div>
-            </div> -->
+            </div>
           </div>
           <div class="col-md-6 col-sm-6 top-space-icon">
             <img src="<?php echo base_url('/img/icon/draft-01.png') ?>" width="100%" class="img-responsive" height="auto" alt="Belajar Ngaji">  
