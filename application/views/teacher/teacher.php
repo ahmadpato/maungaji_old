@@ -200,7 +200,7 @@
     <br>
     <br>
 
-    <section class="pricing py-5">
+    <div class="pricing py-5">
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-sm-6">
@@ -265,7 +265,7 @@
                 ?>
               <?php
               ?>
-                <section class="pricing py-5" id="myDIV">
+                <div class="pricing py-5" id="myDIV">
                   <div class="col-sm-6 col-md-4">
                     <div class="card mb-5 mb-lg-0">
                       <div class="card-body">
